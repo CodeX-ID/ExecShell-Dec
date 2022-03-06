@@ -18,11 +18,6 @@
 
  - ```python2 Dec.py [ File Name ] ``` <br>
 
-
-<p align="center">
-	<img src="https://github.com/CodeX-ID/ExecShell-Dec/blob/main/Shell.png" width="600px">
-</p>
-
 ------------------------------------------------------------------------
 ### CodeX-ID
 - `Bilal`  <br>   ✓ ` https://github.com/Bilal-XD `  <br>
